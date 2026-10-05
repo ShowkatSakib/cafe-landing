@@ -4,6 +4,7 @@ function Navbar() {
       <h2>☕ Bean Cafe</h2>
       <ul>
         <li><a href="#top">Top</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
   )
