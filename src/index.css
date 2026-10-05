@@ -1,0 +1,8 @@
+:root {
+  --primary: #b45309;
+  --bg: #fffbeb;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { font-family: system-ui, sans-serif; background: var(--bg); color: #292524; }
